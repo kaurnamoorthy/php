@@ -1,2 +1,2 @@
 # php
-mysqldump is a utility to create backup of mysql database using default mysqldump utility
+mysqldump is a simple php sample file to create backup of mysql database using default mysqldump utility
